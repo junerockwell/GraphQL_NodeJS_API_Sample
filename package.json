@@ -1,0 +1,31 @@
+{
+  "name": "graphql_nodejs_api_sample",
+  "version": "0.0.0",
+  "description": "GraphQL API in NodeJS Sample",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "apollo-server-express": "^2.19.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.7",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node src/server.js"
+  },
+  "author": "June Rockwell",
+  "license": "ISC"
+
+}
