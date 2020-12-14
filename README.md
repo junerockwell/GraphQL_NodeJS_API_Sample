@@ -1,9 +1,9 @@
 # GraphQL API in NodeJS Sample
 
-**GraphQL Framework:** `apollo-server-express`
-**Authentication:** `jsonwebtoken`
-**ORM:** Mongoose
-**DBaaS:** MongoDB Atlas
+-**GraphQL Framework:** `apollo-server-express`
+-**Authentication:** `jsonwebtoken`
+-**ORM:** Mongoose
+-**DBaaS:** MongoDB Atlas
 
 **Description:** This is a sample Web Service API using GraphQL to authenticate a user to demonstrate DBaaS interaction and a prototype of a book inventory. This is also a redo of my first try at GraphQL API using the framework `express-graphql` (See this repo: https://github.com/junerockwell/GraphQL_React_Sample). The difference between the two is that the `GraphQL_React_Sample` Project has a React App in its repo while this only has barebones Web Service API.
 
