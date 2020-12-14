@@ -1,5 +1,6 @@
 # GraphQL API in NodeJS Sample
 
+### Tech Highlights
 - **GraphQL Framework:** `apollo-server-express`
 - **Authentication:** `jsonwebtoken`
 - **ORM:** Mongoose
