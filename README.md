@@ -17,7 +17,7 @@
 - Schema Stiching and combining resolvers
 
 ### What could I have done differently in this prototype?
-- Not use the authenticated user as the automatic author of the book. But I did that to proove a concept with I was learning how to make a jsonwebtoken authentication guard.
+- Not use the authenticated user as the automatic author of the book. But I did that to proove a concept when I was learning how to make a jsonwebtoken authentication guard.
 - Using `dataSource`
 - Adding the data models in the `context` but I went ahead and import them per each controller because I thought it was fun that way.
 - I could have done a better file scaffolding while keeping the standards.
