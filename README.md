@@ -28,4 +28,4 @@
 If you're going to ask me to make you a Web Service API using GraphQL, I would highly suggest to you that we use Apollo-Server because:
 - The GraphQL Community fully supports this.
 - Apollo-Server has a lot of variations and not just with express. It has a variation that integrates with restify and one for AWS-lamda. There's a lot of variations for it. 
-- A lof of my colleauges recognize Apollo-Server more and has demonstrated making queries and resolvers using Apollo-Server more than they are familiar with `express-graphl`.
+- A lof of my colleauges recognize Apollo-Server more and has demonstrated making queries and resolvers using Apollo-Server more than they are familiar with `express-graphql`.
